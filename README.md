@@ -12,7 +12,8 @@ Please open: https://gitpod.io/#https://github.com/codeuniversity/automated-test
     - `implementation4.py`
     - `implementation5.py`
     - `implementation6.py`
+    - `implementation7.py`
 2. run your tests for each file, by doing one of the following:
     - open the implementation file you want to run and click on the little play button at the top-right of the editor
-    - OR open a terminal and type `python implementationX.py`, where X is a number from 1 through 6
+    - OR open a terminal and type `python implementationX.py`, where X is a number from 1 through 7
 3. What are the results? Did you find any bugs? If you did, how many?
